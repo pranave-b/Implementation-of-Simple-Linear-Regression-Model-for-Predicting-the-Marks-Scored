@@ -70,7 +70,7 @@ plt.show()
 ```
 
 ## OUTPUT:
-![simple linear regression model for predicting the marks scored](P1.JPg)
+![simple linear regression model for predicting the marks scored](P1.jpg)
 
 
 ## RESULT:

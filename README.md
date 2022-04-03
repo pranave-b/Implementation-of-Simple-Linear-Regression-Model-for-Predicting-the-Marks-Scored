@@ -33,8 +33,8 @@ End the program.
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored...
-Developed by: Anto Richard.S
-RegisterNumber: 212221240005
+Developed by: PRANAVE B
+RegisterNumber: 212221240040
 */
 
 import numpy as np
@@ -70,7 +70,7 @@ plt.show()
 ```
 
 ## OUTPUT:
-![simple linear regression model for predicting the marks scored](out.png)
+![simple linear regression model for predicting the marks scored](P1.JPg)
 
 
 ## RESULT:
